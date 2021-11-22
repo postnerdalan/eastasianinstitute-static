@@ -1,2 +1,3 @@
-# eastasianinstitute-static
-Simple website for the East Asian Institute
+# East Asian Studies Institute website
+
+https://www.facebook.com/eastasianinstitute/
