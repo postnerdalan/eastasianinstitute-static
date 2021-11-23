@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The East Asian Studies Institute is an online-first organization serving
+enthusiasts of East Asian languages and cultural topics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Founded in 2021 by [Alan W](https://captainalan.github.io) as a way to turn a
+hobby (studying foreign languages) into something useful for the public, the
+East Asian Institute now functions as a hub for international friendship and
+scholarship/study.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We have a [Discord server](https://discord.gg/bECGvtAvWX) up and running.
+Contact Alan W (president) directly using the contact information at the bottom
+of this page.
 
-
-[jekyll-organization]: https://github.com/jekyll
