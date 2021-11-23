@@ -22,7 +22,7 @@ title: East Asian Studies Institute
 email: postnerdalan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The East Asian Studies Institute is an online-first organization serving
-  enthusiasts of East Asian language and culture topics.
+  enthusiasts of East Asian languages and cultural topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eastasianinstitute.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: postnerd1

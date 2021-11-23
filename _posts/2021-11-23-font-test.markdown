@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Trying out East Asian fonts"
+date:   2021-11-23 10:41:57
+author: "Alan W"
+categories: internet technology text
+---
+Nice looking text is essential for nice looking websites. One issue with many
+modern websites (including social media platforms like Facebook) is that they're
+optimized for displaying just one language&mdash;for example English for
+Americans or traditional Chinese characters for Taiwanese users.
+
+Users of East Asian languages and users of Western languages often make use of
+different technologies, such as web browsers and chatting software. This is
+particularly the case with mainland China. The relationship is mutual; the
+"Great Firewall of China" means many web services from the West are blocked
+in China. Conversely, many Chinese web services require Chinese credentials
+(such as a Chinese phone number) to register.
+
+Connecting East Asia the West
+-----------------------------
+
+We already have the web technologies to make excellent multi-lingual websites.
+
+### Making use of HTML language tags
+
+One way to increase the chances that East Asian Languages are displayed
+correctly is to explicity set the `lang` attribute, rather than relying on
+user's browsers to have appropriate defaults.
+Read more on [Alan's
+page](https://captainalan.github.io/language-and-linguistics/technology.html)
+on technology and languages.
+
+HTML source:
+
+```html
+<div lang="ja">東アジア研究所へようこそ</div>
+<div lang="ko">동아시아 연구소에 환영합니다!</div>
+<div lang="zh-sc">欢迎光临来到东亚洲研究所</div>
+```
+
+Result: 
+
+> <div lang="ja">東アジア研究所へようこそ</div>
+> <div lang="ko">동아시아 연구소에 환영합니다!</div>
+> <div lang="zh-sc">欢迎光临来到东亚洲研究所</div> 
+
+
+Unfortunately, most popular social media websites (e.g. Facebook, Twitter)
+*don't* allow you to specify the language attribute. So using multiple
+languages in the same post can mean many characters don't get displayed
+correctly!
+
+Compared with a carefully typeset book, the Internet often looks horrible!
+But, it doesn't have to be this way.  Here's one place where traditional
+"static" web content can win over the conveniences of social media. For
+carefully presenting information in an aesthetically pleasing way, there is no
+substitute for doing things the slow, manual way.  Indeed, many people become
+interested in East Asia through *beauty* of traditional arts and crafts.
